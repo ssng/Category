@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Card</string>
+		<string>Main</string>
+		<string>Masterlist</string>
+		<string>Word</string>
+	</array>
+	<key>Dependencies</key>
+	<array>
+		<string>Soda</string>
+	</array>
+	<key>Description</key>
+	<string>Soda v0.7</string>
+</dict>
+</plist>
